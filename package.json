@@ -1,0 +1,24 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Velvet-Ghost/Node-Express.git"
+  },
+  "keywords": [],
+  "author": "W. Viktor Gray",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Velvet-Ghost/Node-Express/issues"
+  },
+  "homepage": "https://github.com/Velvet-Ghost/Node-Express#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
